@@ -1,10 +1,11 @@
 # GitHub Contributions
 
+- Scope: **External projects only** (excludes `mohammedfirdouss/*`)
 - Contributor: **mohammedfirdouss**
 - Generated: **2026-05-10**
-- Total pull requests found: **126**
-- Total issues found: **43**
-- Repositories involved: **28**
+- Total pull requests found: **56**
+- Total issues found: **16**
+- Repositories involved: **22**
 
 ## Repositories
 
@@ -29,12 +30,6 @@
 | `meshery/meshery` | 1 | 0 | [view](./repos/meshery__meshery.md) |
 | `meshery/meshery.io` | 1 | 0 | [view](./repos/meshery__meshery.io.md) |
 | `mlsanigeria/speak-to-docs` | 3 | 0 | [view](./repos/mlsanigeria__speak-to-docs.md) |
-| `mohammedfirdouss/aws-bootcamp-cruddur-2023` | 28 | 0 | [view](./repos/mohammedfirdouss__aws-bootcamp-cruddur-2023.md) |
-| `mohammedfirdouss/energy-dashboard` | 3 | 0 | [view](./repos/mohammedfirdouss__energy-dashboard.md) |
-| `mohammedfirdouss/free-genai-bootcamp-2025` | 0 | 4 | [view](./repos/mohammedfirdouss__free-genai-bootcamp-2025.md) |
-| `mohammedfirdouss/pipecd-test-app` | 6 | 0 | [view](./repos/mohammedfirdouss__pipecd-test-app.md) |
-| `mohammedfirdouss/portfolio` | 6 | 0 | [view](./repos/mohammedfirdouss__portfolio.md) |
-| `mohammedfirdouss/terraform-beginner-bootcamp-2023` | 27 | 23 | [view](./repos/mohammedfirdouss__terraform-beginner-bootcamp-2023.md) |
 | `open-sauced/app` | 2 | 0 | [view](./repos/open-sauced__app.md) |
 | `pipe-cd/pipecd` | 33 | 6 | [view](./repos/pipe-cd__pipecd.md) |
 | `sktime/sktime-mcp` | 1 | 1 | [view](./repos/sktime__sktime-mcp.md) |
