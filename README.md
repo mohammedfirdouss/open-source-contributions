@@ -7,9 +7,10 @@ Curated portfolio of my open-source work across platforms.
 | Platform | Folder | Summary |
 |---|---|---|
 | GitHub | [`github/`](./github) | External only: 51 PRs, 10 issues across 14 repos |
-| GitLab | [\`gitlab/\`](./gitlab) | Contributions tracked separately |
-| Hugging Face | [\`huggingface/\`](./huggingface) | Datasets and eval artifacts |
+| GitLab | [`gitlab/`](./gitlab) | 9 merged MRs across 4 repositories |
+| Hugging Face | [`huggingface/`](./huggingface) | Datasets and eval artifacts |
 
 ## Notes
 
 - GitHub catalog excludes repositories under `mohammedfirdouss/*`.
+- GitLab catalog is curated from verified merged MRs.
